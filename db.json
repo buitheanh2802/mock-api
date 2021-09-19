@@ -1,0 +1,17 @@
+{
+    "posts" : [
+        {
+            "_id" : "ID",
+            "title" : "String",
+            "content" : "StringHTML",
+            "views" : "Number",
+            "isPublished" : "Boolean",
+            "isDraft" : "Boolean",
+            "slug" : "bui-the-anh",
+            "isApprove" : "Boolean",
+            "userId" : "ID",
+            "votes" : ["ListID"],
+            "tagsId" : ["listTagId"]
+        }
+    ]
+}
