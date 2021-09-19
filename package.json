@@ -1,0 +1,15 @@
+{
+  "name": "Education_Mock-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/buitheanh2802/mock-api.git",
+  "author": "Bui The Anh <bupbui95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "dev": "nodemon ./server.js",
+    "start": "node index.js"
+  }
+}

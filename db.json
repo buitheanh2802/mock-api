@@ -27,15 +27,21 @@
                 "vueJS",
                 "JS"
             ],
-            "totalComments": 2,
+            "totalComments": 23,
             "comments": [
                 {
                     "_id": "ID",
                     "content": "Vĩnh ơi ăn shit không ?",
-                    "votes": [
-                        "mymy",
+                    "likes": [
+                        "buitheanh2802",
+                        "thanhdat",
                         "vinhtran",
-                        "hanhnguyen"
+                        "hanhnguyen",
+                        "mymy"
+                    ],
+                    "dislike": [
+                        "buitheanh2802",
+                        "thanhdat"
                     ],
                     "reply": [
                         {
@@ -53,8 +59,16 @@
                                 "username": "bui-the-anh",
                                 "socialType": "system"
                             },
-                            "votes": [
-                                "buitheanh2802"
+                            "likes": [
+                                "buitheanh2802",
+                                "thanhdat",
+                                "vinhtran",
+                                "hanhnguyen",
+                                "mymy"
+                            ],
+                            "dislike": [
+                                "buitheanh2802",
+                                "thanhdat"
                             ]
                         },
                         {
@@ -98,40 +112,11 @@
                             "buitheanh2802",
                             "thanhdat"
                         ],
-                        "dislike": []
+                        "dislike": ["thanhdat"]
                     },
                     "postId": "847365"
                 }
             ]
-        },
-        {
-            "id": "8473635",
-            "title": "Tầm quan trọng của document đối với communication trong dự án",
-            "content": "<div>null</div>",
-            "views": 57,
-            "isPublished": true,
-            "isDraft": true,
-            "slug": "tai-sao-can-co-api-documentation",
-            "isApprove": true,
-            "userId": "ID",
-            "likes": [
-                "buitheanh2802",
-                "thanhdat",
-                "vinhtran",
-                "hanhnguyen",
-                "mymy"
-            ],
-            "dislike": [
-                "buitheanh2802",
-                "thanhdat"
-            ],
-            "tagsId": [
-                "reactJS",
-                "nodeJS",
-                "vueJS",
-                "JS"
-            ],
-            "comments": []
         }
     ]
 }
