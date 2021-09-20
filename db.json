@@ -189,5 +189,34 @@
             "dislike": ["thanhdat"],
             "tagsId" : ["ReactJS","nodeJS"]
         }
+    ],
+    "tags" : [
+        {
+            "id" : "745493",
+            "name" : "Javascript",
+            "avatar" : {
+                "_id" : "452363",
+                "avatarUrl" : "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
+            },
+            "follows" : 231
+        },
+        {
+            "id" : "745393",
+            "name" : "NodeJS",
+            "avatar" : {
+                "_id" : "4523623",
+                "avatarUrl" : "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+            },
+            "follows" : 372
+        },
+        {
+            "id" : "745423593",
+            "name" : "ReactJS",
+            "avatar" : {
+                "_id" : "23562",
+                "avatarUrl" : "https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png"
+            },
+            "follows" : 572
+        }
     ]
 }
